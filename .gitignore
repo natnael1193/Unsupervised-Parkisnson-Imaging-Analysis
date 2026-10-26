@@ -4,3 +4,4 @@ models/checkpoints/*
 notebooks/test/test.ipynb
 models/checkpoints/*.pth
 models/.DS_Storeresults/generative/decoded_traversals.npz
+results/generative/decoded_traversals.npz
